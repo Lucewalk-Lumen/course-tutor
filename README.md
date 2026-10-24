@@ -5,7 +5,7 @@
 > Course companion agent (teacher edition) with full build source — roster, analytics, weekly reports
 
 
-Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection.
 
 
 ## What it does
